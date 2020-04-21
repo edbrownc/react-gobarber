@@ -1,4 +1,4 @@
-Frontend develped with React.js at Rocketseat GoStack Bootcamp.
+Frontend developed with React.js at Rocketseat GoStack Bootcamp.
 
 # Features
 - **[React](https://reactjs.org/)** — A JavaScript library for building user interfaces
