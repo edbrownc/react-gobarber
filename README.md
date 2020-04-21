@@ -1,4 +1,4 @@
-This front-end features the latest tools and practices in web development!
+Frontend develped with React.js at Rocketseat GoStack Bootcamp.
 
 - **[React](https://reactjs.org/)** — A JavaScript library for building user interfaces
 - **[Redux](https://redux.js.org/)** -State management (includes Saga and Persist)
